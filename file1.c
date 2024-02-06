@@ -2,6 +2,7 @@
 
 int main() 
 {
-	printf("The first commit in branch one\n");
+	printf("A new branch(new1) is created from branch(new) \n");
+	printf("this mod id from the new1 branch\n");
 	return 0;
 }
